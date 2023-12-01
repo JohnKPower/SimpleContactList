@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\giann\OneDrive\Υπολογιστής\Programming II\Project2\Project2\Source.cpp(69,20): error C3861: 'getline': identifier not found
+C:\Users\giann\OneDrive\Υπολογιστής\Programming II\Project2\Project2\Source.cpp(79,20): error C3861: 'getline': identifier not found
+C:\Users\giann\OneDrive\Υπολογιστής\Programming II\Project2\Project2\Source.cpp(92,20): error C3861: 'getline': identifier not found
